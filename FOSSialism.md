@@ -154,13 +154,14 @@ I'm just guy with a computer, big dreams, and a plan[^4], and today seemed like 
 [stack]: https://www.github.com/planet-nine-app/planet-nine/The%20Stack.md
 [magic]: https://www.github.com/planet-nine-app/MAGIC
 [teleportation]: https://www.github.com/planet-nine-app/teleportation
+[hedy]: https://www.github.com/planet-nine-app/hedy
 [openssl]: https://docs.openssl.org/master/man7/ossl-guide-libcrypto-introduction/#operations
 [smart-cities]: https://static1.squarespace.com/static/5bede41d365f02ab5120b40f/t/65d305f9682e3158ed9386cf/1708328441775/ACM+Identity+Paper.pdf
 
 [^1]: "Yes jwts exist too. But they're just fancy sessions because sessions got named first."
 [^2]: "Despite our best efforts, humans don't scale with Moore's Law"
 [^3]: "Wherever possible I've been naming services after important women in STEAM history, a namespace which seems underutilized in computer science for some reason. Any suggestions for women to honor in this are appreciated."
-[^4]: 
+[^4]: "If Die Antwort would like some royalties, from my usage of a line of theirs here, they can send me their Sessionless public keys :)"
 
 [ht1]: ## "In the hierarchy of non-centralized systems it goes decentralized (like blockchain), then federated (like the Fediverse), then interoperable (like cellular networks, or the world wide web). Interoperability was actually the norm in the years before the internet. You don't have to have different pens for different notebooks."
 [ht2]: ## "Rent is an economic term for anything that goes into the price of a good that doesn't come from its inputs"
