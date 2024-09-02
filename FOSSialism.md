@@ -1,6 +1,7 @@
 # FOSSialism
 
 The following concerns a set of free, open source repos and services, which are self-hostable, and deployed for use by everyone.
+It is very much all a work in progress.
 
 I had these grand plans to have this awesome write up of all this stuff, and how it’s gonna change the world, but I ran out of time. 
 So here’s kind of a shortened version with links if you want to read more.
