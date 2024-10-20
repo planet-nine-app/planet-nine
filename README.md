@@ -32,10 +32,52 @@ And I say Planet Nine is a spaceship.
 So here I think many would launch into an explanation of the plausibility of such a speculation, but that doesn't really interest me so much[^1].
 What I'm more interested in are the consequences of what that would mean.
 
-So I started working on this whole lore for Planet Nine and the galaxy, which I'm going to keep recording in brief here, but I need to go to bed for now.
+So I started working on this whole lore for Planet Nine and the galaxy, which I'm going to keep recording in brief here.
+
+### The Drake Equation
+
+It's been a meandering number of years to get here, but I'll see if I can get you up to speed. 
+First, let's start with the [Drake Equation][drake].
+
+![The Drake Equation, which relates the number of extraterrestrial civilizations to a bunch of factors of unknown values](https://i.insider.com/5b3a6c014447272a008b46a1?width=2400)
+
+I won't go through all of this, but the gist is basically if we can figure out how many planets there are or have been, and multiply that by the rate at which they generate life, that'd give us a rough estimate. 
+
+Now Drake came up with this equation back in 1961 when the only planets we knew about were the ones in our solar system, and our thoughts about our collective longevity were being seriously questioned.
+Since this time we've found planets _everywhere_, and for many our thoughts about whether we'll find life off of Earth have shifted from if to when.
+Many of the fractions in the Drake Equation are starting to look like they're equal to 1.
+
+Then I got to thinking... us humans have only been around for 300k years or so. 
+We went from the Wright Brothers to the moon in 66 years, and we've had personal computers for less than 40. 
+Doesn't seem all that unreasonable that given another couple hundred thousand years that we figure out some way off this rock, and leave it for the next species to find some evolutionary pressure solved by sudden growth in intelligence to try and figure out how to get off the rock again.
+
+So let's call it half a mil years to evolve one of these smarty space-faring civs. 
+The sun's got another five billion years or so until it blows up, and ends the Earth's abilty to churn out civs. 
+That's 10k more civs. 
+
+So then I started thinking, if each star had one planet churning out civs like this, and there are somewhere around 100 or 200 billion stars in the Milky Way--well that's a lot of civs.
+
+But then I realized that stars also evolve over time.
+The Milky Way is 10-13.5 billion years old so how many stars has it had?
+
+You start doing the math, and you get to trillions very quick. 
+If you thought keeping track of species in sff was confusing at times, forget about trying it here.
+
+### The Fermi Paradox
+
+[The Fermi Paradox][fermi] basically runs through the math above, and asks, "if there're trillions of alien civs, why haven't we seen any of them?"
+
+It always struck me as pretty naive that we'd expect billion-year-old civs to communicate via radio--I'll refer you again to footnote 1. 
+
+
+
+
+more to come, but I need to go to bed for now.
 
 
 [outerspace]: https://en.wikipedia.org/wiki/Outer_Space_Treaty
 [planetnine]: https://en.wikipedia.org/wiki/Planet_Nine
+[drake]: https://en.wikipedia.org/wiki/Drake_equation
+[fermi]: https://en.wikipedia.org/wiki/Fermi_paradox
 
 [^1]: Here's some hand-waving for you. I find it kind of the height of hubris how many of us believe we humans--in 2024--have the whole universe nearly all figured out. 
