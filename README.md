@@ -68,6 +68,18 @@ If you thought keeping track of species in sff was confusing at times, forget ab
 [The Fermi Paradox][fermi] basically runs through the math above, and asks, "if there're trillions of alien civs, why haven't we seen any of them?"
 
 It always struck me as pretty naive that we'd expect billion-year-old civs to communicate via radio--I'll refer you again to footnote 1. 
+Most of the universe does not interact with the electro-magnetic field, which suggests, since things in Physics prefer low-energy states to high-energy states, that communicating with light might be a rather primitive way of communicating to anyone who's been broadcasting for more than a century or two.
+
+Gravitational waves were detected like a decade ago, and it took two black holes 30 times the mass of the sun to merge for us to see them. 
+If aliens are using gravity to communicate, we wouldn't hear them yet.
+And if they're using dark matter or dark energy, then we'd have ever farther to go since we can't detect either of those things yet. 
+
+One of the numbers in the Drake equation is the amount of time that a civ spends at a technological level where we might interact with them.
+The usual presumption, because we humans think we're the best around, is that we've hit the peak, and other civs just need to get to our level to be found.
+If the average length of time a civ lasts after discovering radio is the like the 200 years between when we did, and when climate change dooms us, then there's not much hope of us all overlapping.
+
+But let's suppose, for the sake of imagining, that there are some civs that are able to figure things out, and last not just centuries, but millenia, and tens of millenia, and hundreds of millenia, and thousands of millenia into the future.
+I'd reckon they'd have some stories, and some technology beyond what we've even dreamed of.
 
 
 
