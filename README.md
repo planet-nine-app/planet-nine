@@ -78,9 +78,56 @@ One of the numbers in the Drake equation is the amount of time that a civ spends
 The usual presumption, because we humans think we're the best around, is that we've hit the peak, and other civs just need to get to our level to be found.
 If the average length of time a civ lasts after discovering radio is the like the 200 years between when we did, and when climate change dooms us, then there's not much hope of us all overlapping.
 
-But let's suppose, for the sake of imagining, that there are some civs that are able to figure things out, and last not just centuries, but millenia, and tens of millenia, and hundreds of millenia, and thousands of millenia into the future.
+But let's suppose, for the sake of imagining, that there are some civs that are able to figure things out, and last not just centuries, but millenia, and tens of millenia, and hundreds of millenia, and thousands of millenia, and thousands and thousands of millenia into the future.
 I'd reckon they'd have some stories, and some technology beyond what we've even dreamed of.
 
+### Billions and billions
+
+We humans don't have a really good sense of long periods of time. 
+Other than Dr. Who, we don't really have any science fiction that worries about things billions of years in the future or past. 
+We hear things like the sun will blow up in five billion years, but that's longer than the Earth's been around, and both of those events are utterly unfathomable both in cosmic-scale, and lengths of time.
+
+Now think about what humans could accomplish in multiple billions of years.
+
+Now think about what some sentient characters who are just a tiny bit more adept at being cool could accomplish in multiple billions of years.
+
+The Milky Way's been around somewhere around 13 billion years. 
+It has contained maybe half a trillion stars.
+Each of those stars probably had planets and moons.
+
+The two last terms in the Drake equation are the fraction of civs that develop tech that releases detectable signals, and the length of time they make these signals.
+I think that's kind of an unimaginative place to stop the tech tree. 
+What about teleportation? Faster than light travel? Multiversal traversal? Wormholes? Stuff we haven't even thought of?
+
+Because you know if there're any creature like us out there with a little more time under their belts, they're gonna try and figure out how to get from one star to another. 
+And you know we're gonna do that too.
+How long do you think it's going to take us? 
+
+### They're already here
+
+Life on Earth started around four billion years ago.
+Let's say some other solar system formed around the beginning of the Milky Way, and had four billion years to load up a planet in itself with clever creatures.
+That gives _nine billion_ years for those creatures to figure out how to find other creatures.
+Idk, seems doable to me.
+
+Some small group of them acts as a vanguard, looking for up and coming spacefaring civs to interact with.
+Maybe they have some rules that help govern those interactions. 
+
+One of the potential solutions to the Fermi Paradox is called the [Zoo hypothesis][zoo].
+The zoo hypothesis says basically that Earth is treated by extraterrestrials the way that humanity treats the Sentinelese of North Sentinel Island.
+That is they're left alone.
+
+Now the Sentinelese may not cross the water to India and threaten the most populated country on Earth, but you know the rest of us are going to be hopping on spaceships, and messing up shit in the stars as soon as we're able.
+I imagine we're not alone in that need to explore, and I imagine that in the thirteen billion years the Milky Way's been around, that vanguard has run into a couple of those species as well.
+
+Humanity doesn't have a ton of examples of an advanced group of people encountering a less advanced group of people and having the former not do terrible things to the latter.
+But we do have a bit of an analog in the form of domesticated animals--the closest thing we have to species that are way behind us on the tech tree.
+So long as you're cool with us, and give us some stuff, we'll take care of you and keep you around.
+Sure sometimes that's in horrible conditions, but we're the same ones who might just be [worse than a giant asteroid][asteroid][^2].
+
+So the vanguard goes around looking for species to help with some cause. 
+And I'd imagine they look out for threats to that cause too. 
+And let the developing species out of the "zoo" once it's ready.
 
 
 
@@ -91,5 +138,9 @@ more to come, but I need to go to bed for now.
 [planetnine]: https://en.wikipedia.org/wiki/Planet_Nine
 [drake]: https://en.wikipedia.org/wiki/Drake_equation
 [fermi]: https://en.wikipedia.org/wiki/Fermi_paradox
+[zoo]: https://en.wikipedia.org/wiki/Zoo_hypothesis
+[asteroid]: https://en.wikipedia.org/wiki/Holocene_extinction
 
 [^1]: Here's some hand-waving for you. I find it kind of the height of hubris how many of us believe we humans--in 2024--have the whole universe nearly all figured out. 
+
+[^2]: Apologies for the flippant invokation of a possible sixth epochal extinction event. I don't mention it as any sort of justification for the brutal treatment of many domesticated animals. It's just not the soapbox I need to get on right now.
