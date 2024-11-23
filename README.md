@@ -129,6 +129,24 @@ So the vanguard goes around looking for species to help with some cause.
 And I'd imagine they look out for threats to that cause too. 
 And let the developing species out of the "zoo" once it's ready.
 
+Now let's say you've spent billions of years travelling the galaxy with the purpose of finding and sheltering civs until they're ready to join whatever it is you want them to join. 
+How do you convince them that you're not a threat?
+
+You can't just show up, chances are they have plenty of media of what an alien invasion looks like (and how it can be thwarted by some good ol' American yeehawin').
+And if you come to late you run the risk of them reaching a point where they can do some damage to your enterprise. 
+
+Over time you learn that civs hit the spacefaring stage at similar states on the tech ladder: eloctromagnetic communication, nuclear power, getting close to traveling to other planets, weirdly dealing with their inability to share ample resources effectively across their world...you know, the usj.
+So the sweet spot is showing up long before these civs evolve, set up shop in a way that hints to your presence, but takes just the right level of technology to find you, keeps you at a close enough distance to communicate, but far enough away to avoid those nukes.
+
+There's a huge chunk of astronomy that can be explained as, "that doesn't move exactly like it should, so there must be something out there." 
+That's what makes some scientists believe in the existence of Planet Nine. 
+
+As far as I'm concerned it's doing exactly what I would do if I was going to watch humans evolve to some state where they could join my galactic federation. 
+And to me it's even more believable that Planet Nine doesn't want to be found, than we haven't been abe to see it.
+
+
+
+
 
 
 more to come, but I need to go to bed for now.
