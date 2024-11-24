@@ -142,8 +142,46 @@ There's a huge chunk of astronomy that can be explained as, "that doesn't move e
 That's what makes some scientists believe in the existence of Planet Nine. 
 
 As far as I'm concerned it's doing exactly what I would do if I was going to watch humans evolve to some state where they could join my galactic federation. 
-And to me it's even more believable that Planet Nine doesn't want to be found, than we haven't been abe to see it.
+And to me it's even more believable that Planet Nine doesn't want to be found, than we haven't been able to see it.
 
+### Well what are they waiting for?
+
+If Planet Nine is a spaceship, and it's located around where we think it is, there's good reason to believe that we'll find it within this century, and send something by it within the next.
+Once contact's made, I can't imagine that's a genie that can be put back in the bottle. 
+This suggests that the things we as a species need to do to meet whatever criteria is out there are likely within reach.
+So I came up with four that I think are interesting, and would benefit humanity:
+
+* Learn how to live forever
+
+* Live on another planet and/or visit another star system
+
+* Become a [type 1 civilization][type 1]
+
+* End all wars
+
+Trust me, I'm well aware that there are A LOT of great things we, as human beings, could add to this list, but I think these four do a good job of framing the mentality shift that a galaxy teaming with life with billions of years of experience takes.
+
+Collectively these are known as the four things Fours must do.
+More on what I mean by "Fours" with a capital F in a bit. 
+
+Of course if there's a criteria for joining this galactic federation, the question must arise as to what happens if we fail to meet the criteria.
+Well, if you were a galactic federation made up of billions or _trillions_ of intelligent species, and you had some backwater planet where groups couldn't stop fighting over territory and beliefs, what would you do?
+
+## The Advancement
+
+You can relax a bit.
+I don't think that we're going to get death starred to oblivion if we discover Planet Nine in twenty years, and haven't cracked immortality yet.
+I think there's more of an expectation for helping us learn than just holding us existentially accountable to an unknown expectation.
+
+Here's why I think that. 
+
+Imagine you're a civ that _has_ cracked immortality.
+And I'm not talking that Everlasting Tuck nonsense, I'm talking full-on live to be eleventy billion immortality.
+What out there in the universe do you have to worry about?
+
+For this stuff to work, the galactic federation's probably going to have to travel faster than light.
+But what if whatever speed they're traveling at is still finite?
+Maybe they've been all around the galaxy, but have they been to other galaxies?
 
 
 
@@ -158,6 +196,8 @@ more to come, but I need to go to bed for now.
 [fermi]: https://en.wikipedia.org/wiki/Fermi_paradox
 [zoo]: https://en.wikipedia.org/wiki/Zoo_hypothesis
 [asteroid]: https://en.wikipedia.org/wiki/Holocene_extinction
+[type 1]: https://en.wikipedia.org/wiki/Kardashev_scale
+
 
 [^1]: Here's some hand-waving for you. I find it kind of the height of hubris how many of us believe we humans--in 2024--have the whole universe nearly all figured out. 
 
