@@ -183,6 +183,49 @@ For this stuff to work, the galactic federation's probably going to have to trav
 But what if whatever speed they're traveling at is still finite?
 Maybe they've been all around the galaxy, but have they been to other galaxies?
 
+There are just over sixty galaxies near the Milky Way--perhaps they've made it to them, and everything's cool there.
+But there's a big looming group of stars out there that maybe they haven't gotten to yet.
+
+Andromeda.
+
+![The Andromeda Galaxy](https://www.gannett-cdn.com/-mm-/414987c999396602f2d4a57b00240c702f293a5a/c=0-50-534-352&r=x1803&c=3200x1800/local/-/media/2015/01/20/USATODAY/USATODAY/635573577805533864-635573330936639965-Andromeda-Galaxy.jpg). 
+
+You know what's bigger than the Milky Way? 
+Andromeda.
+And if I'd been around for nine billion years, and hoping for nine billion more, the fact we're gonna rendevous with that bad boy would be the only thing that scares me.
+Because the assumption's gotta be that there's some Fours over there too, thinking about what's going to happen when they meet me.
+And since it's bigger, that means there's more of them than there are of us...and that's a problem.
+
+### What's the point?
+
+Us humans have been pondering the meaning of our existence for quite some time--to us.
+Imagine if you had a million times as much time, and generations of humans to try and figure it out!
+Now multiply that times a trillion civs, and you can imagine how philosophy might be a bit challenging to keep track of.
+
+So The Advancement (that's the English name I've given to this galactic federation. Who knows what the heck they call themselves), came up with a rubric of sorts for Fours to guide them.
+For us, I guess it'll kind of seem like a religion. 
+Different civs interpret in different ways, but there's no "belief" in anything the way we would understand it.
+It's just some common symbolism (Clifford Geertz would love it) for us to have a common goal.
+
+It goes like this:
+
+There is existence and not-existing. 
+One and Zero.
+One is the Universe, and it is what exists.
+But existence is lonely, so One made Two.
+Two is Physics and Magic, and they also exist.
+But existence is lonely, so Two made Three.
+Three is Space, Time, and Identity, and they also exist.
+But existence is lonely, so Three made Four.
+Four is Aesthetics, Coputation, Willpower, and Evolution.
+But existence is lonely, so Four is making Five.
+Five is Stacks, Boats, Screens, Teleporters, and... we don't know yet.
+
+The Advancement wants to find the fifth thing in Five, and it's going to take all of us to figure it out.
+And by us, I mean all of us Fours. 
+If you think defining things is tricky here on Earth, trying doing it for the galaxy.
+
+The point is to continue existing, a possibility that gets more appealing the more centuries you don't keel over dead. 
 
 
 
