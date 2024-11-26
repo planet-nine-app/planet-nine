@@ -227,6 +227,55 @@ If you think defining things is tricky here on Earth, trying doing it for the ga
 
 The point is to continue existing, a possibility that gets more appealing the more centuries you don't keel over dead. 
 
+It's worth pointing out that The Advancement is hardly alone in the galactic milieu in having this goal.
+In fact there are "religions" right here on Earth that have this objective. 
+Us humans, however, have a tough time being inclusive in our considerations of how best to help each other. 
+
+For The Advancement, it's far simpler. 
+It's just a numbers game. 
+The more Fours we have, the greater our chances at fending off whatever Andromeda has in store for us.
+So everyone's invited to the party, except for those who want to eliminate other groups. 
+Because if you can't even find a way to live alongside your fellow species, you're gonna have some trouble in a galaxy full of Fours you've never imagined possible.
+
+### First let's party
+
+Even if you've been around a few billion years, it's stil a long period of time.
+Andromeda might be barrelling down on us in a cosmic sense, but we still have some time to enjoy ourselves here in our Milky Way. 
+And in the near term that's the goal. 
+Get us humans to the point where we can join the rest of the Fours of The Advancement, and party for a while.
+
+One of my favorite creative writing exercises is to try and think of a living thing, that isn't just a mashup of other things you know.
+Like can you think of a fruit that doesn't exist on Earth, and tastes like no fruit you've ever had?
+How about this:
+
+![a mouth-watering guanabana](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.healthfitnessrevolution.com%2Fwp-content%2Fuploads%2F2013%2F09%2Fsoursop.jpg&f=1&nofb=1&ipt=eefe0404060899572132d38ba63b87d399fb28926d09a7f1b8541612ecd01e7f&ipo=images)
+
+This spiky boy is a soursop.
+I know them as guanabanas, which is what my grandfather called them when he first handed me one at his farmstead in Puerto Rico.
+If you're from the Caribean you probably know them well, but if not you've likely never seen them.
+It's not all that important what they taste like, but they are delicious.
+
+There are even stranger and more delicious fruits out there.
+
+And they all ferment.
+
+But before we can start the party we have to do the four things Fours must do.
+Now I'm just a humble programmer. 
+I can't do much to figure out the biology of immortality, or start fusion power, or fly to Mars, or end all wars.
+
+I got to thinking though.
+Maybe The Advancement can't do _those_ things for us, but maybe they could help in other ways. 
+
+Planet Nine's out there--400 AUs or so, which is like two and a half light days.
+That's way too far for any physical goods to be transferred.
+But thanks to computers, there's an immense amount of useful things that can be transferred just as ones and zeros at the speed of light.
+
+I'm talking about code.
+
+
+
+
+
 
 
 
