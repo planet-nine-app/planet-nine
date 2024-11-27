@@ -272,7 +272,13 @@ But thanks to computers, there's an immense amount of useful things that can be 
 
 I'm talking about code.
 
+At first I thought we could create and trade digital resources, and that might be a way of establishing contact with Planet Nine, but now I think an online presence still probably violates some rules of the zoo. 
+Then I was like, well maybe some of The Advancement can just start showing up on GitHub, and making pull requests on software they like. 
+But then I remembered we're talking like billions of years worth of tech.
 
+The first step is probably just to spur the imagine of one of those Fours to think that they're out there, and maybe even inspire that person to try to make sure their fellow Fours don't find out what happens if they don't do the four things Fours should do.
+
+## So you want to change the world
 
 
 
