@@ -280,6 +280,15 @@ The first step is probably just to spur the imagine of one of those Fours to thi
 
 ## So you want to change the world
 
+Back in 2015 or so, I was working for a startup, and we had just been acquired. 
+I decided that I wanted the next thing I worked on (maybe not as a job, but with the passion I had poured into the startup), would be the biggest thing I could think of. 
+
+For those who haven't done a startup before, you start with a user and a problem they have, and then develop a product that solves that problem. 
+Lightning's burning down folks' homes all over the place so Ben Franklin developed the lightning rod.
+The formula's been working for a while.
+
+So, the biggest thing I could think of was something that would have everyone as a user, and what's a problem everyone has?
+
 
 
 
