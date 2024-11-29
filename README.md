@@ -289,6 +289,20 @@ The formula's been working for a while.
 
 So, the biggest thing I could think of was something that would have everyone as a user, and what's a problem everyone has?
 
+Money--everyone could use more money.
+
+So I set out to find a way to get everyone more money.
+Not like thousands of dollars, but like five bucks. 
+
+I don't really want to go through all the twists and turns of how I tried to get there.
+The tl;dr is that I formed a company, and the company was trying to create a digital resource that was tradable that people could discover around the Earth and through cyberspace that could be used for useful things. 
+It was trying to recreate a gold rush of sorts, but it failed miserably mostly due to my lack of marketing, and because crypto was simultaneously much more lucrative, and much more of a turn off to the average person that any mention of "digital tokens" became poisoned.
+
+Underlying this initial effort was a simple, but powerful idea.
+I had long bristled at having to supply my personal information for every internet action I take, and I wanted users of my platform to not have to use their email or phone number for signing up.
+So I implemented this auth and identity system I wrote about in a [paper for the ACM][smart-cities]: https://static1.squarespace.com/static/5bede41d365f02ab5120b40f/t/65d305f9682e3158ed9386cf/1708328441775/ACM+Identity+Paper.pdf
+If you want to skip ahead a bit, you can check out [its implementation here.][sessionless]
+
 
 
 
@@ -304,6 +318,8 @@ more to come, but I need to go to bed for now.
 [zoo]: https://en.wikipedia.org/wiki/Zoo_hypothesis
 [asteroid]: https://en.wikipedia.org/wiki/Holocene_extinction
 [type 1]: https://en.wikipedia.org/wiki/Kardashev_scale
+[smart-cities]: https://static1.squarespace.com/static/5bede41d365f02ab5120b40f/t/65d305f9682e3158ed9386cf/1708328441775/ACM+Identity+Paper.pdf
+[sessionless]: https://github.com/planet-nine-app/sessionless
 
 
 [^1]: Here's some hand-waving for you. I find it kind of the height of hubris how many of us believe we humans--in 2024--have the whole universe nearly all figured out. 
