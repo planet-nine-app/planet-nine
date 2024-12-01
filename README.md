@@ -303,7 +303,20 @@ I had long bristled at having to supply my personal information for every intern
 So I implemented this auth and identity system I wrote about in a [paper for the ACM][smart-cities]: https://static1.squarespace.com/static/5bede41d365f02ab5120b40f/t/65d305f9682e3158ed9386cf/1708328441775/ACM+Identity+Paper.pdf
 If you want to skip ahead a bit, you can check out [its implementation here.][sessionless]
 
+All Sessionless does is use the same asymmetric cryptography that Bitcoin and Ethereum use, and removes it from a blockchain.[^3]
+The reason for that asymmetric cryptography is that the crypto nodes can't trust each other so they use a session-less method of authorization for passing messages around.
 
+The reason _they_ do that is because it's how we've been establishing trust between machines for decades.
+When I was researching this back around when I wrote my paper, my question was basically, could we use this untrusted authorization method in a sort of trusted environment to some effect?
+This made a lot of sense in the context of the paper and smart cities since I was talking about being able to interact with municipal installations and entities--there's a reasonable expectation that government run things will be "safe."[^4]
+
+Then I realized that if you don't have to give anything up, and you don't have to share any pii, then it doesn't matter if the other machine isn't trustworthy. 
+There's no damage for them to do.
+
+That was the crux of the original Planet Nine, and all I needed to do was to find some people willing to use the platform for no gain or purpose...
+My strategy did not work.
+
+### No really... what's Planet Nine trying to do?
 
 
 
@@ -325,3 +338,7 @@ more to come, but I need to go to bed for now.
 [^1]: Here's some hand-waving for you. I find it kind of the height of hubris how many of us believe we humans--in 2024--have the whole universe nearly all figured out. 
 
 [^2]: Apologies for the flippant invokation of a possible sixth epochal extinction event. I don't mention it as any sort of justification for the brutal treatment of many domesticated animals. It's just not the soapbox I need to get on right now.
+
+[^3]: Crypto is so toxic that the mere mention of it anywhere is usually an immediate deal breaker for people. As such, in a lot of docs I tend to skirt around the association. I feel alright risking it here since I feel anyone who bothered to read this far into this doc, and this footnote about it, will be open to the idea that there might be useful things wrapped up in the questionable shroud that is crypto today. 
+
+[^4]: This, of course, isn't true everywhere, and indeed may not be true anywhere depending on your point of view.
