@@ -318,6 +318,27 @@ My strategy did not work.
 
 ### No really... what's Planet Nine trying to do?
 
+So let's say you're a galactic federation of billions of species of sentient beings collectively known as Fours.
+You are effectively immortal, but still have to deal with the vagaries of a hostile universe. 
+The largest looming problem is that another galaxy is headed your way, and it's bigger than your galaxy. 
+
+There are plenty of fights to look back on to gain insight on how best to prepare, but it shouldn't come as a huge surprise to any of us earthlings that technological advancement plays a big part.
+Given that galactic evolution gives similar time horizons for us and Andromeda, our spots on the tech tree are largely just a function of our populations. 
+Andromeda is bigger, so it stands to reason it has a larger population.
+
+That means The Advancement can do two things to try and keep up.
+First, it can increase the likelihood of Fours evolving on hospitable planets (say by hastening the extinction of very cool, but ultimately not 4 material species).
+Second, it can work to ensure that the _all_ Fours are primed to contribute.
+
+In other words, the iniquities suffered on the home planet of an emerging Four like ours are antithetical to the galactic purpose of developing the most badass space lasers.
+The Advancement's not judgemental, but five billion years is gonna fly by, and it's a loooong time to be arguing about whether women should be able to drive. 
+
+The Advancement knows that it can't just wave a wand, and make all the prejudices of a new Four go away, even if, to the billion-year-olds who have seen everything, squabbles over skin color are as mundane as fur color, scale color, spots versus stripes, tentacle number, acidic spitting distance, etc. 
+The point isn't to eliminate prejudice, it's to get people to realize the real enemies out there: those Fours who have more than you, and would use that fact to harm you, by which, of course, I mean Andromeda.
+
+
+
+
 
 
 
