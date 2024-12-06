@@ -336,6 +336,11 @@ The Advancement's not judgemental, but five billion years is gonna fly by, and i
 The Advancement knows that it can't just wave a wand, and make all the prejudices of a new Four go away, even if, to the billion-year-olds who have seen everything, squabbles over skin color are as mundane as fur color, scale color, spots versus stripes, tentacle number, acidic spitting distance, etc. 
 The point isn't to eliminate prejudice, it's to get people to realize the real enemies out there: those Fours who have more than you, and would use that fact to harm you, by which, of course, I mean Andromeda.
 
+Now we all learn early on, whether implicitly or explicitly, that prejudices and stereotypes are self-reinforcing. 
+So at a very basic level, if we want to put a dent into the prejudices that are preventing us from contributing to the galactic tech tree, we'll want to limit that reinforcement. 
+To that end, anything that looks to separate us into different groups--whether that be by sex/gender, race/ethnicity, age, political views, etc--should be met with disdain and ridicule.
+
+Now can you think of any giant well-oiled multi-faceted technological aperatus that endeavors to _segment_ us into groups on a near constant basis?
 
 
 
