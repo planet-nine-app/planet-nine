@@ -342,7 +342,21 @@ To that end, anything that looks to separate us into different groups--whether t
 
 Now can you think of any giant well-oiled multi-faceted technological aperatus that endeavors to _segment_ us into groups on a near constant basis?
 
+<details>
+  <summary>I am in fact having trouble thinking about what this is</summary>
+  It's advertising! Specifically the giant amount of spyware used to follow your every move on cyberspace in order to sell you socks.
+</details>
 
+It shouldn't be all that surprising that the discovery, and subsequent availability of an entire civ's knowledge being made available to all of that civ via keystrokes, and swipes, serves as a bit of an inflection point on the galactic trajectory.
+After all, the graphs of human education, and human progress seem more than a tiny bit correlated.
+
+With great power, comes great responsibility, but _unlike_ institutions, which can be protected, the internet--and indeed the greater realm of cyberspace--has no army to fight for it.
+Thus it, and by using it, we are at the whims of whatever monied forces should seek to use it for ill.
+
+The thing is, we're decades into monetizing the internet this way. 
+Millions of people wake up each morning and create art, and seek to sell it for pennies generated from views and likes. 
+
+The whole rigamarole creates this economic incentive for people to play _into_ their stereotypes, to consume content intended for their demographics, to _segment_ themselves into nice, marketable groups, for maximizing shareholder value.
 
 
 
