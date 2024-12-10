@@ -357,11 +357,44 @@ The thing is, we're decades into monetizing the internet this way.
 Millions of people wake up each morning and create art, and seek to sell it for pennies generated from views and likes. 
 
 The whole rigamarole creates this economic incentive for people to play _into_ their stereotypes, to consume content intended for their demographics, to _segment_ themselves into nice, marketable groups, for maximizing shareholder value.
+And this has effectively turned every media platform into a propaganda machine for self-selecting groups. 
+And that makes it so that instead of developing space lasers for Andromeda (or peace rays, we don't need to assume violence), we have digital fiefdoms whose boundaries are our senses of self, and whose rent is paid through the placement of pngs.[^5]
+
+So Planet Nine the _human_ endeavor is here to disrupt advertising.
+
+And to do that we need to figure out a better way of getting everyone paid.
+And by everyone I mean us, the Fours, not the corporations, not the stock market, and not the groups concentrating wealth into the hands of the few. 
+
+## Which brings me back to The Outer Space Treaty
+
+In 2014, Estonia instituted a program called e-citizenship. 
+For $100, and a trip to the local embassy, anyone in the world (of course finding $100 the local embassy is a lot harder in certain places than in others) can gain access to pretty much all of the financial services of Estonia--banking, incorporation, etc.
+Estonia, as part of the EU, thus provides a good entry point for foreign entities to join that market, and Estonia gets to rake in some taxes from around the world. 
+
+One of the big barriers to taking on advertising is that money doesn't move freely around the world. 
+That was one of the big selling points about crypto, but that hasn't quite panned out to fix this.
+If everyone had easy access to Estonia, we could probably solve the problem that way, although the real world being what it is there'd probably be some qualms with using any actual country for this purpose.
+
+But what about a planet spaceship?
+
+Presumably The Advancement has some sort of government, which can grant citizenship, which bestows the holder of said citizenship with certain...uh...(in)alien(able) rights.
+The Outer Space Treaty protects it from any Earth nation's machinations, and the distance would protect from any practical intercession. 
+
+Of course, unlike Estonia, The Advancement has long been post-scarcity, and thus has no need of taxes.
+In fact, maybe they even get to a point where they bestow some kind of universal basic income on their e-citizens. 
+
+A planet-sized cooperative financial system that _everyone_ can join. 
+
+## But first
+
+That's a lot about Planet Nine. 
+To get there we've got to build a bunch of other stuff like [The Stack][stack].
+
+You're standing at the edge of the rabbit hole.
+Dive on in.
 
 
 
-
-more to come, but I need to go to bed for now.
 
 
 [outerspace]: https://en.wikipedia.org/wiki/Outer_Space_Treaty
@@ -373,6 +406,7 @@ more to come, but I need to go to bed for now.
 [type 1]: https://en.wikipedia.org/wiki/Kardashev_scale
 [smart-cities]: https://static1.squarespace.com/static/5bede41d365f02ab5120b40f/t/65d305f9682e3158ed9386cf/1708328441775/ACM+Identity+Paper.pdf
 [sessionless]: https://github.com/planet-nine-app/sessionless
+[stack]: https://github.com/planet-nine-app/planet-nine/blob/main/The%20Stack.md
 
 
 [^1]: Here's some hand-waving for you. I find it kind of the height of hubris how many of us believe we humans--in 2024--have the whole universe nearly all figured out. 
@@ -382,3 +416,5 @@ more to come, but I need to go to bed for now.
 [^3]: Crypto is so toxic that the mere mention of it anywhere is usually an immediate deal breaker for people. As such, in a lot of docs I tend to skirt around the association. I feel alright risking it here since I feel anyone who bothered to read this far into this doc, and this footnote about it, will be open to the idea that there might be useful things wrapped up in the questionable shroud that is crypto today. 
 
 [^4]: This, of course, isn't true everywhere, and indeed may not be true anywhere depending on your point of view.
+
+[^5]: I'm well aware that advertising can seem innocuous compared to say genocide, and climate change. If I could solve those with software, I would, but so long as I'm confined to a single human lifetime, I've got to maximize my contribution by leveraging the skills I do have. 
