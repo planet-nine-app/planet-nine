@@ -8,6 +8,8 @@ Much of the treaty focused on not loading up space with nukes, as would be expec
 It was pretty easy back then to give up on the idea of claiming the celestial bodies--after all, they probably didn't have oil.
 And besides, everything was so far away you'd have to travel at like the speed of light for it to matter, and what could possibly matter and travel that fast?
 
+### The hypothetical Planet Nine
+
 In the early 2000s, a number of astronomical discoveries added credence to the idea that there was a far-flung unknown planet in our solar system.
 This planet had been known as Planet X, but around 2006 when Pluto was demoted to a planetesimal, we had to reevaluate the name, and we now call it [Planet Nine][planetnine].
 
@@ -41,7 +43,7 @@ First, let's start with the [Drake Equation][drake].
 
 ![The Drake Equation, which relates the number of extraterrestrial civilizations to a bunch of factors of unknown values](https://i.insider.com/5b3a6c014447272a008b46a1?width=2400)
 
-I won't go through all of this, but the gist is basically if we can figure out how many planets there are or have been, and multiply that by the rate at which they generate life, that'd give us a rough estimate. 
+I won't go through all of this, but the gist is basically if we can figure out how many planets there are or have been, and multiply that by the rate at which they generate life, and the longevity of that life, that'd give us a rough estimate of how many alien species are out there. 
 
 Now Drake came up with this equation back in 1961 when the only planets we knew about were the ones in our solar system, and our thoughts about our collective longevity were being seriously questioned.
 Since this time we've found planets _everywhere_, and for many our thoughts about whether we'll find life off of Earth have shifted from if to when.
@@ -51,7 +53,7 @@ Then I got to thinking... us humans have only been around for 300k years or so.
 We went from the Wright Brothers to the moon in 66 years, and we've had personal computers for less than 40. 
 Doesn't seem all that unreasonable that given another couple hundred thousand years that we figure out some way off this rock, and leave it for the next species to find some evolutionary pressure solved by sudden growth in intelligence to try and figure out how to get off the rock again.
 
-So let's call it half a mil years to evolve one of these smarty space-faring civs. 
+So let's call it half a million years to evolve one of these smarty space-faring civs. 
 The sun's got another five billion years or so until it blows up, and ends the Earth's abilty to churn out civs. 
 That's 10k more civs. 
 
@@ -61,14 +63,14 @@ But then I realized that stars also evolve over time.
 The Milky Way is 10-13.5 billion years old so how many stars has it had?
 
 You start doing the math, and you get to trillions very quick. 
-If you thought keeping track of species in sff was confusing at times, forget about trying it here.
+If you thought keeping track of species in science-fiction was confusing at times, forget about trying it here.
 
 ### The Fermi Paradox
 
 [The Fermi Paradox][fermi] basically runs through the math above, and asks, "if there're trillions of alien civs, why haven't we seen any of them?"
 
 It always struck me as pretty naive that we'd expect billion-year-old civs to communicate via radio--I'll refer you again to footnote 1. 
-Most of the universe does not interact with the electro-magnetic field, which suggests, since things in Physics prefer low-energy states to high-energy states, that communicating with light might be a rather primitive way of communicating to anyone who's been broadcasting for more than a century or two.
+Most of the universe does not interact with the electro-magnetic field, which suggests, since things in Physics prefer low-energy states to high-energy states, that communicating with light might be a rather primitive, and energy inefficient way of communicating to anyone who's been broadcasting for more than a century or two.
 
 Gravitational waves were detected like a decade ago, and it took two black holes 30 times the mass of the sun to merge for us to see them. 
 If aliens are using gravity to communicate, we wouldn't hear them yet.
@@ -76,7 +78,7 @@ And if they're using dark matter or dark energy, then we'd have ever farther to 
 
 One of the numbers in the Drake equation is the amount of time that a civ spends at a technological level where we might interact with them.
 The usual presumption, because we humans think we're the best around, is that we've hit the peak, and other civs just need to get to our level to be found.
-If the average length of time a civ lasts after discovering radio is the like the 200 years between when we did, and when climate change dooms us, then there's not much hope of us all overlapping.
+If the average length of time a civ lasts after discovering radio is the like 200 years between when we did, and when climate change dooms us, then there's not much hope of us all overlapping.
 
 But let's suppose, for the sake of imagining, that there are some civs that are able to figure things out, and last not just centuries, but millenia, and tens of millenia, and hundreds of millenia, and thousands of millenia, and thousands and thousands of millenia into the future.
 I'd reckon they'd have some stories, and some technology beyond what we've even dreamed of.
@@ -133,9 +135,9 @@ Now let's say you've spent billions of years travelling the galaxy with the purp
 How do you convince them that you're not a threat?
 
 You can't just show up, chances are they have plenty of media of what an alien invasion looks like (and how it can be thwarted by some good ol' American yeehawin').
-And if you come to late you run the risk of them reaching a point where they can do some damage to your enterprise. 
+And if you come too late you run the risk of them reaching a point where they can do some damage to your enterprise. 
 
-Over time you learn that civs hit the spacefaring stage at similar states on the tech ladder: eloctromagnetic communication, nuclear power, getting close to traveling to other planets, weirdly dealing with their inability to share ample resources effectively across their world...you know, the usj.
+Over time you learn that civs hit the spacefaring stage at similar states on the tech ladder: eloctromagnetic communication, nuclear power, getting close to traveling to other planets, weirdly dealing with their inability to share ample resources effectively across their world...you know, the yoozh.
 So the sweet spot is showing up long before these civs evolve, set up shop in a way that hints to your presence, but takes just the right level of technology to find you, keeps you at a close enough distance to communicate, but far enough away to avoid those nukes.
 
 There's a huge chunk of astronomy that can be explained as, "that doesn't move exactly like it should, so there must be something out there." 
@@ -183,7 +185,7 @@ For this stuff to work, the galactic federation's probably going to have to trav
 But what if whatever speed they're traveling at is still finite?
 Maybe they've been all around the galaxy, but have they been to other galaxies?
 
-There are just over sixty galaxies near the Milky Way--perhaps they've made it to them, and everything's cool there.
+There are just over sixty smaller galaxies near the Milky Way--perhaps they've made it to them, and everything's cool there.
 But there's a big looming group of stars out there that maybe they haven't gotten to yet.
 
 Andromeda.
@@ -192,6 +194,7 @@ Andromeda.
 
 You know what's bigger than the Milky Way? 
 Andromeda.
+
 And if I'd been around for nine billion years, and hoping for nine billion more, the fact we're gonna rendevous with that bad boy would be the only thing that scares me.
 Because the assumption's gotta be that there's some Fours over there too, thinking about what's going to happen when they meet me.
 And since it's bigger, that means there's more of them than there are of us...and that's a problem.
@@ -217,13 +220,13 @@ Two is Physics and Magic, and they also exist.
 But existence is lonely, so Two made Three.
 Three is Space, Time, and Identity, and they also exist.
 But existence is lonely, so Three made Four.
-Four is Aesthetics, Coputation, Willpower, and Evolution.
+Four is Aesthetics, Computation, Willpower, and Evolution.
 But existence is lonely, so Four is making Five.
 Five is Stacks, Boats, Screens, Teleporters, and... we don't know yet.
 
 The Advancement wants to find the fifth thing in Five, and it's going to take all of us to figure it out.
 And by us, I mean all of us Fours. 
-If you think defining things is tricky here on Earth, trying doing it for the galaxy.
+If you think defining things is tricky here on Earth, try doing it for the galaxy.
 
 The point is to continue existing, a possibility that gets more appealing the more centuries you don't keel over dead. 
 
@@ -234,12 +237,13 @@ Us humans, however, have a tough time being inclusive in our considerations of h
 For The Advancement, it's far simpler. 
 It's just a numbers game. 
 The more Fours we have, the greater our chances at fending off whatever Andromeda has in store for us.
+
 So everyone's invited to the party, except for those who want to eliminate other groups. 
 Because if you can't even find a way to live alongside your fellow species, you're gonna have some trouble in a galaxy full of Fours you've never imagined possible.
 
 ### First let's party
 
-Even if you've been around a few billion years, it's stil a long period of time.
+Even if you've been around a few thems, a billion years is stil a long period of time.
 Andromeda might be barrelling down on us in a cosmic sense, but we still have some time to enjoy ourselves here in our Milky Way. 
 And in the near term that's the goal. 
 Get us humans to the point where we can join the rest of the Fours of The Advancement, and party for a while.
@@ -252,7 +256,7 @@ How about this:
 
 This spiky boy is a soursop.
 I know them as guanabanas, which is what my grandfather called them when he first handed me one at his farmstead in Puerto Rico.
-If you're from the Caribean you probably know them well, but if not you've likely never seen them.
+If you're from the Caribbean you probably know them well, but if not you've likely never seen them.
 It's not all that important what they taste like, but they are delicious.
 
 There are even stranger and more delicious fruits out there.
@@ -260,6 +264,7 @@ There are even stranger and more delicious fruits out there.
 And they all ferment.
 
 But before we can start the party we have to do the four things Fours must do.
+
 Now I'm just a humble programmer. 
 I can't do much to figure out the biology of immortality, or start fusion power, or fly to Mars, or end all wars.
 
@@ -276,7 +281,7 @@ At first I thought we could create and trade digital resources, and that might b
 Then I was like, well maybe some of The Advancement can just start showing up on GitHub, and making pull requests on software they like. 
 But then I remembered we're talking like billions of years worth of tech.
 
-The first step is probably just to spur the imagine of one of those Fours to think that they're out there, and maybe even inspire that person to try to make sure their fellow Fours don't find out what happens if they don't do the four things Fours should do.
+The first step is probably just to spur the imagination of one of those Fours to think that they're out there, and maybe even inspire that person to try to make sure their fellow Fours don't find out what happens if they don't do the four things Fours should do.
 
 ## So you want to change the world
 
@@ -284,7 +289,7 @@ Back in 2015 or so, I was working for a startup, and we had just been acquired.
 I decided that I wanted the next thing I worked on (maybe not as a job, but with the passion I had poured into the startup), would be the biggest thing I could think of. 
 
 For those who haven't done a startup before, you start with a user and a problem they have, and then develop a product that solves that problem. 
-Lightning's burning down folks' homes all over the place so Ben Franklin developed the lightning rod.
+Lightning was burning down folks' homes all over the place so Ben Franklin developed the lightning rod.
 The formula's been working for a while.
 
 So, the biggest thing I could think of was something that would have everyone as a user, and what's a problem everyone has?
@@ -299,9 +304,10 @@ The tl;dr is that I formed a company, and the company was trying to create a dig
 It was trying to recreate a gold rush of sorts, but it failed miserably mostly due to my lack of marketing, and because crypto was simultaneously much more lucrative, and much more of a turn off to the average person that any mention of "digital tokens" became poisoned.
 
 Underlying this initial effort was a simple, but powerful idea.
+
 I had long bristled at having to supply my personal information for every internet action I take, and I wanted users of my platform to not have to use their email or phone number for signing up.
-So I implemented this auth and identity system I wrote about in a [paper for the ACM][smart-cities]: https://static1.squarespace.com/static/5bede41d365f02ab5120b40f/t/65d305f9682e3158ed9386cf/1708328441775/ACM+Identity+Paper.pdf
-If you want to skip ahead a bit, you can check out [its implementation here.][sessionless]
+So I implemented this auth and identity system I wrote about in a [paper for the ACM][smart-cities].
+If you want to skip ahead a bit, you can check out [its implementation Sessionless here.][sessionless]
 
 All Sessionless does is use the same asymmetric cryptography that Bitcoin and Ethereum use, and removes it from a blockchain.[^3]
 The reason for that asymmetric cryptography is that the crypto nodes can't trust each other so they use a session-less method of authorization for passing messages around.
@@ -327,8 +333,8 @@ Given that galactic evolution gives similar time horizons for us and Andromeda, 
 Andromeda is bigger, so it stands to reason it has a larger population.
 
 That means The Advancement can do two things to try and keep up.
-First, it can increase the likelihood of Fours evolving on hospitable planets (say by hastening the extinction of very cool, but ultimately not 4 material species).
-Second, it can work to ensure that the _all_ Fours are primed to contribute.
+First, it can increase the likelihood of Fours evolving on hospitable planets (say by hastening the extinction of very cool, but ultimately not Four material species).
+Second, it can work to ensure that _all_ Fours are primed to contribute.
 
 In other words, the iniquities suffered on the home planet of an emerging Four like ours are antithetical to the galactic purpose of developing the most badass space lasers.
 The Advancement's not judgemental, but five billion years is gonna fly by, and it's a loooong time to be arguing about whether women should be able to drive. 
@@ -351,7 +357,7 @@ It shouldn't be all that surprising that the discovery, and subsequent availabil
 After all, the graphs of human education, and human progress seem more than a tiny bit correlated.
 
 With great power, comes great responsibility, but _unlike_ institutions, which can be protected, the internet--and indeed the greater realm of cyberspace--has no army to fight for it.
-Thus it, and by using it, we are at the whims of whatever monied forces should seek to use it for ill.
+Thus it, and, by using it, we are at the whims of whatever monied forces should seek to use it for ill.
 
 The thing is, we're decades into monetizing the internet this way. 
 Millions of people wake up each morning and create art, and seek to sell it for pennies generated from views and likes. 
@@ -368,8 +374,8 @@ And by everyone I mean us, the Fours, not the corporations, not the stock market
 ## Which brings me back to The Outer Space Treaty
 
 In 2014, Estonia instituted a program called e-citizenship. 
-For $100, and a trip to the local embassy, anyone in the world (of course finding $100 the local embassy is a lot harder in certain places than in others) can gain access to pretty much all of the financial services of Estonia--banking, incorporation, etc.
-Estonia, as part of the EU, thus provides a good entry point for foreign entities to join that market, and Estonia gets to rake in some taxes from around the world. 
+For $100, and a trip to the local Estonian embassy, anyone in the world (of course finding $100 and the local embassy is a lot harder in certain places than in others) can gain access to pretty much all of the financial services of Estonia--banking, incorporation, etc.
+Estonia, as part of the EU, provides a good entry point for foreign entities to join that market, and Estonia gets to rake in some taxes from around the world for its troubles. 
 
 One of the big barriers to taking on advertising is that money doesn't move freely around the world. 
 That was one of the big selling points about crypto, but that hasn't quite panned out to fix this.
@@ -383,7 +389,16 @@ The Outer Space Treaty protects it from any Earth nation's machinations, and the
 Of course, unlike Estonia, The Advancement has long been post-scarcity, and thus has no need of taxes.
 In fact, maybe they even get to a point where they bestow some kind of universal basic income on their e-citizens. 
 
+So The Advancement grants to all of us earthlings e-citizenship that gives everyone access to intra-galactic banks, and business rules, and all that sort of stuff holding humans back from helping with Andromeda, because some jerk needs his ego stroked.
+We've alreay named it:
+
+Planet Nine.
+
 A planet-sized cooperative financial system that _everyone_ can join. 
+
+I might not be able to prove that it's out there, or that The Advancement is here to help, but until we figure out what's loop-to-loopin' that stuff out past Neptune, no one's going to be able to disprove it either. 
+I don't really know how that might play in court, but I figure if insurance companies can cite acts of god, there's at least some precedence for unprovable agency being allowed.
+These days, I'm not sure the world would be all that consistent in what it thinks is more plausible.
 
 ## But first
 
