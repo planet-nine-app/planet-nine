@@ -440,12 +440,12 @@ It has aliens, and advertising, and I was like I wonder if I could do something 
 
 Turns out I can. 
 
-![Here's a screenshot of a website with an ad](https://github.com/planet-nine-app/planet-nine/ad.png)
+![Here's a screenshot of a website with an ad](https://github.com/user-attachments/assets/be8bdaf8-3aba-46a4-9eb1-1162256fa237)
 
 Here's a pretty standard news site with ads.[^8]
 But let's say we replace the ad with an image of an iconic enemy, and make it so that I can "deal damage" to it by tapping it, and that after some amount of damage I "defeat" the ad. 
 
-<put video here>
+https://github.com/user-attachments/assets/2351c413-4c48-4e42-9016-7aaab6cf81ba
 
 And now the ad monster is gone, and the webpage reorients itself as though it was never there.
 
