@@ -457,7 +457,17 @@ Doing it this way, the ad still gets served, The Mercury gets its money, and rat
 But what if I don't want to fight slimes? you ask.
 Well, you can cover the ad with any image: plants, cats, your country's constitution...it's your browser, and you browsin', seems reasonable to let you view what you want.
 
-### 
+### It's on like Donkey Kong
+
+There's a thing in political science called [The Overton Window][overton].
+It outlines a spectrum where political ideas are reasonable to the political cohort. 
+For example, the existence of this Amazon product:
+
+![A tumbler with very hungry caterpillar that says "eat the rich"
+
+suggests that our Overton Window is closer to late 18th century France than... well I can't really think of a time the Overton window was really pro the rich, but the point is, we're not always ready for violent revolution. 
+
+ 
 
 
 
@@ -484,6 +494,7 @@ I'm planetnineisaspaceship there.
 [osf]: https://opensourceforce.net
 [ublock]: https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22
 [theylive]: https://youtu.be/aiMLJAZajxg
+[overton]: https://en.wikipedia.org/wiki/Overton_window
 
 
 [^1]: "Rent is an economic term for any part of the price of a good that isn't directly involved in the manufacture and supply of said good. The business model of pretty much any app or website that sells things on behalf of others is to charge rent. And who pays for rent? Consumers do."
