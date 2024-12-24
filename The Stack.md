@@ -440,6 +440,24 @@ It has aliens, and advertising, and I was like I wonder if I could do something 
 
 Turns out I can. 
 
+![Here's a screenshot of a website with an ad](https://github.com/planet-nine-app/planet-nine/ad.png)
+
+Here's a pretty standard news site with ads.[^8]
+But let's say we replace the ad with an image of an iconic enemy, and make it so that I can "deal damage" to it by tapping it, and that after some amount of damage I "defeat" the ad. 
+
+<put video here>
+
+And now the ad monster is gone, and the webpage reorients itself as though it was never there.
+
+Did you know you could do that?
+Neither did I.
+But now that I do, I'm like why the heck do we put up with ads at all?
+
+Doing it this way, the ad still gets served, The Mercury gets its money, and rather than having to resist the temptation to find out my IQ, I can fight slimes.
+But what if I don't want to fight slimes? you ask.
+Well, you can cover the ad with any image: plants, cats, your country's constitution...it's your browser, and you browsin', seems reasonable to let you view what you want.
+
+### 
 
 
 
@@ -475,3 +493,4 @@ I'm planetnineisaspaceship there.
 [^5]: "It doesn't have to. Sessionless isn't an either/or proposition, and you do sometimes need to provide a way for users to recover keys (of which using a password is one of many methods)." 
 [^6]: "I don't actually care about Proctor & Gamble, but for products made by smbs and solo creators, having to buy their wares through Amazon's 30% rake is some bull honky-tonky."
 [^7]: "Kevin Spacey is mega-cancelled, so I don't want to use his line from the Usual Suspects here although it's certainly more recognizable. Turns out the quote reflects a commonly held sentiment amongst religious wordsmiths of the late 19th century, and I've pulled one such quote here"
+[^8]: "When I was doing this I was trying to use The Mercury, a cool free publication available here in Portland, but my url bar autocorrected it to themercury.com.au, which also seems like some sort of small periodical in Australia. I don't know much more about this Australian periodical though, so apologies if it's not cool. It's here just to show what can be done about ads."
