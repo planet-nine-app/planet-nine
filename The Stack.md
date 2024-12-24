@@ -393,9 +393,59 @@ I.e. in the apps we already use.
 
 </details>
 
-The rest of this is evolving:
+<details>
+  <summary>The Advancement - A browser extension that goes on the offensive against advertising</summary>
 
-* The Advancement - A browser extension that goes on the offensive against advertising
+What is the internet? 
+
+It didn't dawn on me until I was almost thirty years old, an had returned to college that the internet was just a way of connecting computers to each other. 
+For much of the time of the internet up to that point, machines were connected via numbers called ip addresses that were literally saved in text files on intermediate machines. 
+When I finally put my first "website" on the internet, and saw it was literally just a text file flying from one machine to another, it was like pulling back the curtain on Oz. 
+
+There are two slight hiccups when it comes to shooting files over to arbitrary machines, and having those machines run your code: people don't read code, and people don't know how to keep their machine safe from code being run. 
+And thus the browser was born--the perfect way to make the web's code look beautiful, keep the web's code from stealing your files, and doing nothing else...
+
+> the loveliest trick of the Devil is to persuade you that they don’t exist![^7] 
+
+The only thing I've never understood about Chrome is why it took Google so long to make it. 
+The perfect data collection apparatus for its main revenue stream. 
+Regardless, we're there now.
+Two-thirds of all internet traffic happens in Chrome. 
+
+It might seem kind of silly that this is the line I draw on what I'll build given everything below here on The Stack, but the thing is the _code_ I've needed to write to establish Sessionless, MAGIC, and Teleportation is minuscule. 
+A single language implementation of all three is just a few hundred lines of code.
+
+Firefox is like 30-40 million lines of code. 
+And btw Firefox is already great, and you should use it instead of Chrome. 
+
+So if not a browser, than what?
+Well browsers have these things called extensions. 
+They're not super well-known because they're kind of an awkward user experience, and they require getting a little more into the computer than many people are comfortable with, but once you've done it once or twice it's pretty easy.
+Just needs to be a compelling reason to do it.
+
+The most popular extensions are ad blockers, and that seems a fine place to start given our goal is to destroy advertising. 
+
+Extensions use a thing called a manifest to tell the browser some of what they do.
+Google recently changed to a new kind of manifest that they said was "safer."
+This manifest changed a couple of things, one of the big ones being limiting extensions abilities to keep and update lists of urls to filter from pages.
+[I'll give you one guess what kind of extensions were making use of this feature.][ublock] 
+
+Now blocking ads at their source is a totally reasonable way of doing it, but it does have one issue, which is that you're blocking the revenue of the person who made the site.
+Even with my view on advertising, I hate the idea of taking money from a creator more so I don't use an ad blocker, and when I started to try and think of what to do instead, it was keeping the ads generating revenue, while not annoying me that I looked at.
+
+### The live
+
+[In the late eighties, John Carpenter dropped the absolute gem They Live where Rowdy Roddy Piper finds sunglasses that rveals the world as it really is][theylive].
+It has aliens, and advertising, and I was like I wonder if I could do something similar, and show everyone what digital advertising really is.
+
+Turns out I can. 
+
+
+
+
+</details>
+
+The rest of this is evolving:
 
 * The Adversement - B2B tools for reaching customers _without_ needing to resort to advertising
 
@@ -414,6 +464,8 @@ I'm planetnineisaspaceship there.
 [sessionless.org]: https://sessionless.org
 [MAGIC]: https://www.github.com/planet-nine-app/magic
 [osf]: https://opensourceforce.net
+[ublock]: https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22
+[theylive]: https://youtu.be/aiMLJAZajxg
 
 
 [^1]: "Rent is an economic term for any part of the price of a good that isn't directly involved in the manufacture and supply of said good. The business model of pretty much any app or website that sells things on behalf of others is to charge rent. And who pays for rent? Consumers do."
@@ -422,3 +474,4 @@ I'm planetnineisaspaceship there.
 [^4]: "There are a lot of ways of being jerks to each other, and often they boil down to some sort of us versus them. The name Planet Nine is meant to be evocative of an extra-global mindset where the us is quite literally all of humanity."
 [^5]: "It doesn't have to. Sessionless isn't an either/or proposition, and you do sometimes need to provide a way for users to recover keys (of which using a password is one of many methods)." 
 [^6]: "I don't actually care about Proctor & Gamble, but for products made by smbs and solo creators, having to buy their wares through Amazon's 30% rake is some bull honky-tonky."
+[^7]: "Kevin Spacey is mega-cancelled, so I don't want to use his line from the Usual Suspects here although it's certainly more recognizable. Turns out the quote reflects a commonly held sentiment amongst religious wordsmiths of the late 19th century, and I've pulled one such quote here"
