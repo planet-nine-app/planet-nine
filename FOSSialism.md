@@ -1,6 +1,7 @@
 # FOSSialism
 
-The following concerns a set of free, open source repos and services, which are self-hostable, and deployed for use by everyone.
+The following concerns free software.
+To be more specific, a set of free, open source repos and services, which are self-hostable, and deployed for use by everyone.
 It is very much all a work in progress.
 
 I had these grand plans to have this awesome write up of all this stuff, and how it’s gonna change the world, but I ran out of time. 
@@ -29,6 +30,14 @@ Here are the three most important ones:
 * [allyabase][allyabase] - The public BaaS that Sessionless enables
 
 * [The Stack][stack] - The set of open source protocols built with and on top of Sessionless that enable, among other things, profit sharing from transactions.
+
+## More pieces as of Jan 7th 2025
+
+* [MAGIC][magic] - The protocol for chaining machines together in transactions (part of The Stack, but called out here)
+
+* [Teleportation][teleportation] - The protocol for moving web content from one place to another on the internet
+
+* [Nullaris] - The set of interoperable client applications that utilize allyabase and The Stack.
 
 ### Sessionless
 
@@ -85,13 +94,31 @@ The poor tax that is having to go to the bank to get change, and then lug your l
 #### Teleportation
 
 The layer above MAGIC is called [Teleportation][teleportation].
-It's probably best to read about it, but the tl;dr is we're gonna make up an html tag, crawl for it, and make participants' content available in other contexts.
+It's probably best to read about it, but the tl;dr is we've made an html tag, crawl for it, and make participants' content available in other contexts.
 This way people can make stores, or other discovery mechanisms, add themselves to spell that purchases whatever the teleported thing is, and all this can happen without advertising or search mechanisms.
 
 #### The rest of The Stack
 
 There are three more parts to The Stack, but they're furher away, and not well-defined right now. 
 You can get the ideas for them in [The Stack][stack]
+
+### Nullaris
+
+Well I can't stop scope creeping myself, so here's the deal with Nullaris.
+[Enshittification][enshittification] is the term given to how every platform starts off cool, and then eventually becomes garbagio. 
+There are some platforms which lend themselves to a no frills[^5] version, and that's what Nullaris is going to do. 
+
+BUT because Planet Nine uses sessionless, users only need one user account for all Nullaris apps, AND those apps can actually interact with each other and do things if via MAGIC if people want them to. 
+
+The starting four Nullaris apps will be for the following use cases:
+
+* messaging
+
+* blogging
+
+* short-form video
+
+* bookmarking and link sharing
 
 ## FOSSialism
 
@@ -158,11 +185,13 @@ I'm just guy with a computer, big dreams, and a plan[^4], and today seemed like 
 [hedy]: https://www.github.com/planet-nine-app/hedy
 [openssl]: https://docs.openssl.org/master/man7/ossl-guide-libcrypto-introduction/#operations
 [smart-cities]: https://static1.squarespace.com/static/5bede41d365f02ab5120b40f/t/65d305f9682e3158ed9386cf/1708328441775/ACM+Identity+Paper.pdf
+[enshittification]: https://en.wikipedia.org/wiki/Enshittification
 
 [^1]: "Yes jwts exist too. But they're just fancy sessions because sessions got named first."
 [^2]: "Despite our best efforts, humans don't scale with Moore's Law"
 [^3]: "Wherever possible I've been naming services after important women in STEAM history, a namespace which seems underutilized in computer science for some reason. Any suggestions for women to honor in this are appreciated."
 [^4]: "If Die Antwort would like some royalties, from my usage of a line of theirs here, they can send me their Sessionless public keys :)"
+[^5]: "No frills was a brand of dirt cheap groceries in Australia when I lived there in 2000. You should look it up, it was pretty great"
 
 [ht1]: ## "In the hierarchy of non-centralized systems it goes decentralized (like blockchain), then federated (like the Fediverse), then interoperable (like cellular networks, or the world wide web). Interoperability was actually the norm in the years before the internet. You don't have to have different pens for different notebooks."
 [ht2]: ## "Rent is an economic term for anything that goes into the price of a good that doesn't come from its inputs"
