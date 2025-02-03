@@ -37,7 +37,7 @@ Here are the three most important ones:
 
 * [Teleportation][teleportation] - The protocol for moving web content from one place to another on the internet
 
-* [Nullaris] - The set of interoperable client applications that utilize allyabase and The Stack.
+* [Nullaris][nullaris] - The set of interoperable client applications that utilize allyabase and The Stack.
 
 ### Sessionless
 
@@ -186,6 +186,7 @@ I'm just guy with a computer, big dreams, and a plan[^4], and today seemed like 
 [openssl]: https://docs.openssl.org/master/man7/ossl-guide-libcrypto-introduction/#operations
 [smart-cities]: https://static1.squarespace.com/static/5bede41d365f02ab5120b40f/t/65d305f9682e3158ed9386cf/1708328441775/ACM+Identity+Paper.pdf
 [enshittification]: https://en.wikipedia.org/wiki/Enshittification
+[nullaris]: https://github.com/planet-nine-app/nullaris
 
 [^1]: "Yes jwts exist too. But they're just fancy sessions because sessions got named first."
 [^2]: "Despite our best efforts, humans don't scale with Moore's Law"
