@@ -4,7 +4,7 @@ So we all hate AI.
 But a big part of that is because it's making private companies money rather than the collective, which gave it its material to train on.
 One of the thoughts I had for Planet Nine in the future was to train an LLM such that it could be used to pay back the people who trained it. 
 
-As I was playing aroun with things a few weeks ago, I realized that's the infrastructure that Planet Nine provides, namely a way to pay out to the collective rather than to private industry.
+As I was playing around with things a few weeks ago, I realized that's the infrastructure that Planet Nine provides, namely a way to pay out to the collective rather than to private industry.
 So I started going HAM with AI to rebuild a lot of the internet's current players within a more shareable ecosystem.
 Thus far the results seem pretty dope. 
 
