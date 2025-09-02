@@ -28,7 +28,7 @@ Please note the use of the color green to indicate money flowing into your pocke
 allyabase has everything you need to build lots of apps. 
 the [MAGIC][magic] protocol lets you add people, places, and groups into transactions so that instead of relying on centralized authorities to split up surplus value, you can bake that into the transaction directly. 
 
-The point of bases is to build communities, like old school forums, but instead of communication, the point of the base are transactions (whether moneyed or not-moneyed). 
+The point of bases is to build communities, like old school forums, but instead of communication, a base is focused on transactions (whether moneyed or not-moneyed). 
 The protocols let the bases federate and/or let users join multiple bases. 
 So for example, a local grocery store might be part of the neighborhood base, and a veggie-friendly base, and an eat-local base. 
 Users of all of these bases could then purchase from the local store instead of Amazon-owned Whole Foods. 
@@ -42,7 +42,7 @@ How's $100/mo for reservations, and $150/mo for your POS, and $90/mo for invento
 So I started building these no-cruft versions of a lot of popular SaaS apps, and it's actually been pretty fun.
 So, after I finish some of the base line ones (SoMa[^1] apps and blogging and eCommerce), right now I think I might just keep building them out.
 
-The key is (pub intended), all of these apps can work together if users want them to.
+The key is (pun intended), all of these apps can work together if users want them to.
 No need for a million different accounts, just one user to rule them all.
 That's the power of [Sessionless][sessionless].
 
@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/65c80e01-d955-4875-8219-ffaad91ebb5f
 
 Now you could imagine different kinds of interactions with this extension.
 Say one which would allow a blogger to benefit from your next purchase _regardless of whether that purchase was made on their site or not!_
-The bases you join keep what you're buying relevant to you, and anyone can benefit.
+The bases you join keep what your buying relevant to you, and anyone can benefit.
 
 ## Roadmap
 
